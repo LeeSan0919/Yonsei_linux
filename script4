@@ -1,0 +1,7 @@
+#!/bin/sh
+echo command = $0
+echo 1st arg = $1
+echo 9th arg = $9
+echo ${10}
+echo all args = $*
+echo number of  arg = $#

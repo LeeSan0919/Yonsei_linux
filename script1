@@ -1,0 +1,5 @@
+echo Hi! 
+echo HOME=$HOME
+echo Today is `date`
+echo APPLE or $apple !
+#jsjsjsjsjsjsjsjsjsjsj
